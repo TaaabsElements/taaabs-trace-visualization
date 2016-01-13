@@ -1,0 +1,37 @@
+{
+  "name": "taaabs-trace-visualization",
+  "version": "1.0.0",
+  "description": "`<taaabs-trace-visualization>`.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-trace-visualization.git"
+  },
+  "main": "taaabs-trace-visualization.html",
+  "license": "https://github.com/TaaabsElements/taaabs-trace-visualization/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "paper-material": "PolymerElements/paper-material",
+    "taaabs-samotraceme": "https://github.com/TaaabsElements/taaabs-samotraceme.git",
+    "taaabs-timeform": "https://github.com/TaaabsElements/taaabs-timeform.git",
+    "taaabs-window-scale-fix": "https://github.com/TaaabsElements/taaabs-window-scale-fix.git",
+    "taaabs-trace-display-icons-fix": "https://github.com/TaaabsElements/taaabs-trace-display-icons-fix.git",
+    "taaabs-trace-display-icons-zoom": "https://github.com/TaaabsElements/taaabs-trace-display-icons-zoom.git",
+    "taaabs-trace-fix ": "https://github.com/TaaabsElements/taaabs-trace-fix .git",
+    "taaabs-trace-display-icons": "https://github.com/TaaabsElements/taaabs-trace-display-icons.git",
+    "taaabs-window-scale": "https://github.com/TaaabsElements/taaabs-window-scale.git",
+    "taaabs-obsel-inspector": "https://github.com/TaaabsElements/taaabs-obsel-inspector.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
